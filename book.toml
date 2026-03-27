@@ -1,0 +1,4 @@
+[book]
+authors = ["Drew DeVault"]
+src = "src"
+title = "The Wayland Protocol"
