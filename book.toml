@@ -2,3 +2,10 @@
 authors = ["Drew DeVault"]
 src = "src"
 title = "The Wayland Protocol"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "ayu"
+
+[output.html.print]
+enable = false
