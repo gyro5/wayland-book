@@ -1,5 +1,8 @@
 # Introduction
 
+>[!NOTE]
+> This is a re-hosting of the Wayland book by Drew DeVault. The original website can be found at [https://wayland-book.com/](https://wayland-book.com/).
+
 Wayland is the next-generation display server for Unix-like systems, designed
 and built by the alumni of the venerable Xorg server, and is the best way to get
 your application windows onto your user's screens. Readers who have worked with
